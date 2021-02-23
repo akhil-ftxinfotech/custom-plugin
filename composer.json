@@ -2,7 +2,7 @@
     "name": "akhil-ftxinfotech/custom-plugin",
     "description": "This is the custom plugin.",
     "keywords": ["wordpress", "plugin"],
-    "homepage": "https://github.com/akhil-ftxinfotech/custom-plugin",
+    "homepage": "https://github.com/akhil-ftxinfotech/custom-plugin.git",
     "authors": [
       {
         "name": "Ftx Infotech",
