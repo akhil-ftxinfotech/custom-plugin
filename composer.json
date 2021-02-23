@@ -1,0 +1,16 @@
+{
+    "name": "akhil-ftxinfotech/custom-plugin",
+    "description": "This is the custom plugin.",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/akhil-ftxinfotech/custom-plugin",
+    "authors": [
+      {
+        "name": "Ftx Infotech",
+        "homepage": "https://ftxinfotech.com"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=5.6"
+    }
+  }
