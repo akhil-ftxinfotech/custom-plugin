@@ -1,7 +1,7 @@
 <?php 
-/**
- * Plugin Name : Custom Plugin
- */
+/*
+    Plugin Name: Custom Plugin
+*/
 
 
 if(!is_admin())
